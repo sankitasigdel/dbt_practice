@@ -1,0 +1,9 @@
+version: 2
+
+models:
+    - name: sankita_table
+      description: "A sankita table"
+      columns:
+          - name : name
+            tests:
+                - is_name

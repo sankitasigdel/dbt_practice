@@ -38,4 +38,4 @@ models:
       materialized: view
 
 vars:
-  data : 1
+  new_id : 3
