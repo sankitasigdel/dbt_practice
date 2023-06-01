@@ -1,0 +1,1 @@
+select count(*) as row_count from {{ ref('model_new') }}

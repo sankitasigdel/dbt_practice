@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: sankitatablesource
+    description: '{{ doc("table_events") }}'
+    database: DBT_DATABASE
+    schema: DBT_SSIGDEL
+    tables:
+      - name: SANKITA_TABLE
+      - name : SANKITA_AGE

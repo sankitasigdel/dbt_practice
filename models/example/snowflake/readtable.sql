@@ -1,0 +1,1 @@
+select * from sankita_table
